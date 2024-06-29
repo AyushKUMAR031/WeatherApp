@@ -1,0 +1,8 @@
+:root {
+    --black: #171613;
+    --white: #fcebcd;
+    color: var(--white);
+    background-color: var(--black);
+    align-items: center;
+    text-align: center;
+}
