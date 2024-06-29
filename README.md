@@ -10,7 +10,7 @@ The Weather App is a web application that displays current weather information f
 - Responsive design for desktop and mobile devices.
 
 ### Tech Used
-- Frontend: HTML, CSS, JavaScript (React.js)
+- Frontend: HTML, CSS, JavaScript (React.js) in `Vite`
 - Backend: None (uses API directly)
 - API: Weather API `OpenWeatherApp`
 - Deployment: GitHub Pages 
